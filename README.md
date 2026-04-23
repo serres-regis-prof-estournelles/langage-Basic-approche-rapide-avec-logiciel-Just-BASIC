@@ -17,7 +17,7 @@ Au cœur de ce projet se trouve `cadenas.bas`. Ce n'est pas seulement un program
 #
 ❌ Pas de souris à l'époque mais un crayon optique... 
 #
-❌ Le copier/coller n'existait pas. 
+❌ Le CTRL + V n'existait pas. 
 #
 ❌ S'il y avait 100 fois PRINT dans un programme, il fallait saisir 100 fois PRINT...
 # 
