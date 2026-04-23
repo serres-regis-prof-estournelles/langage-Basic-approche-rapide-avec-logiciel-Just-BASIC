@@ -23,7 +23,7 @@ Au cœur de ce projet se trouve `cadenas.bas`. Ce n'est pas seulement un program
 # 
 ❌ Quand on avait un message du type "SYNTAX ERROR IN 100", on pouvait y passer des heures. Il y avait une erreur à la ligne 100. C'était à toi de la trouver et de la corriger sans aide extérieure.
 #
-✅ Ce code, avec ses numéros de ligne, ses instructions `GOTO` et `GOSUB`, et ses `PRINT` en majuscules, est le **prédécesseur direct** des versions modernes en **C++** et **Python**. 
+✅ Ce code, avec ses numéros de ligne, ses instructions `GOTO` et `GOSUB`, et ses `PRINT` en majuscules, est l'**ancêtre** des versions modernes en **C++** et **Python**. 
 #
 ## 🎮 Qu'est-ce que le Jeu du Cadenas ?
 
