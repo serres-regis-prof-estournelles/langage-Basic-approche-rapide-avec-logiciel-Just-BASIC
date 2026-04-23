@@ -41,7 +41,7 @@ Au cœur de ce projet se trouve `cadenas.bas`. Ce n'est pas seulement un program
 #   
 ► But du jeu : déduire le **code secret** et gagner la partie en moins de **10 essais**.
 #
-## Le geek des années 80, c'est la 2CV : quand ton jeu plante, tu utilises le manuel, tu regardes sous le capot (le code), et avec un peu d'huile de coude (et un GOTO bien placé), ça redémarre. C'est lent, ça vibre, mais tu comprends comment ça marche 😀.
+## Le geek des années 80, c'est la 2CV : quand ton jeu plante, tu utilises le manuel, tu regardes sous le capot (le code), et avec un peu d'huile de coude (et un GOTO bien placé), ça redémarre. Ce n'est pas rapide, ça vibre, mais tu comprends comment ça marche 😀.
 ## Le geek d'aujourd'hui, c'est la Tesla : quand ça plante, tu fais une mise à jour OTA en espérant que le bug soit fixé. C'est rapide, c'est fluide, mais si l'écran tactile meurt, tu ne sais même pas où est le capot 😀.
 #
 👤 Auteur : SERRES Régis - Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
